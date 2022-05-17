@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "text": "useState 배우기",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "text": "useEffect 배우기",
+    "completed": false
+  }
+]
