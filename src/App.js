@@ -67,6 +67,7 @@ const App = () => {
               <button type="submit">Submit Edits</button>
             </div>
             <button onClick={() => deleteTodo(todo.id)}>Delete</button>
+            <p>gg</p>
           </div>
         </div>
       ))}
